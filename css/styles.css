@@ -75,6 +75,7 @@ header nav ul {
 
 header nav ul li a {
    position: relative;
+   color: #fff;
 }
 
 header nav ul li a:after {
@@ -174,6 +175,7 @@ p {
    align-items: center;
    justify-content: space-between;
    width: 50%;
+   color: #fff;
 }
 
 #cta-container a:hover {
