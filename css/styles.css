@@ -44,6 +44,7 @@ header {
 header #logo {
    font-size: 25px;
    font-weight: 700;
+   color: #fff;
 }
 
 header nav {
@@ -175,7 +176,7 @@ p {
    align-items: center;
    justify-content: space-between;
    width: 50%;
-   color: #fff;
+   color: #000;
 }
 
 #cta-container a:hover {
