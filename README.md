@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Respository](https://github.com/jordan-na/rock-paper-scissors-spock-lizard)
-- Live Site URL: [Hosted on Github Pages](https://jordan-na.github.io/rock-paper-scissors-spock-lizard/)
+- Solution URL: [Github Respository](https://github.com/jordan-na/Room-Homepage)
+- Live Site URL: [Hosted on Github Pages](https://jordan-na.github.io/Room-Homepage/)
 
 ## My process
 
